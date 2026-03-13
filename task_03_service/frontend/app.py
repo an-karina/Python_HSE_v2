@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import plotly.express as px
 
-API = 'http://localhost:8000'
+API = 'https://python-hse-v2.onrender.com'
 
 st.markdown('''
     <style>
