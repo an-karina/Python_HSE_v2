@@ -40,8 +40,8 @@ pip install fastapi uvicorn streamlit pandas plotly requests pydantic
 python main.py
 ```
 
-The API will be available at: `http://localhost:8000`  
-Interactive API docs at: `http://localhost:8000/docs`
+The API will be available at: `https://python-hse-v2.onrender.com`  
+Interactive API docs at: `https://python-hse-v2.onrender.com/docs`
 
 ### 2. Start the frontend
 
@@ -51,7 +51,7 @@ Open a **second terminal** and run:
 streamlit run app.py
 ```
 
-The dashboard will open at: `http://localhost:8501`
+The dashboard will open at: `http://localhost:8501](https://pythonhsev2-jrqdbg8watz33jge6m8j8s.streamlit.app`
 
 > ⚠️ Both backend and frontend must be running at the same time.
 
