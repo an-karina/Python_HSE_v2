@@ -13,9 +13,10 @@ task_03_service/
 ├── backend/
 │   ├── main.py       ← FastAPI application
 │   └── data.csv      ← persistent data storage
+│   └── requirements.txt
 ├── frontend/
 │   └── app.py        ← Streamlit UI
-├── requirements.txt
+│   └── requirements.txt
 └── README.md
 ```
 
