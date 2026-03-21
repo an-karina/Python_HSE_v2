@@ -1,0 +1,3 @@
+[MESSAGES CONTROL]
+# E0401: packages are installed inside Docker, not in the local pylint environment
+disable=E0401
